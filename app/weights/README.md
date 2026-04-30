@@ -21,21 +21,18 @@ tags:
 
 
 
-- **Developed by:** [More Information Needed]
-- **Funded by [optional]:** [More Information Needed]
-- **Shared by [optional]:** [More Information Needed]
-- **Model type:** [More Information Needed]
-- **Language(s) (NLP):** [More Information Needed]
-- **License:** [More Information Needed]
-- **Finetuned from model [optional]:** [More Information Needed]
+- **Developed by:** Mukhamedali Daniyaruly
+- **Model type:** Vision Language Models
+- **Language(s) (NLP):** English
+- **Finetuned from model [optional]:** Alibaba
 
 ### Model Sources [optional]
 
 <!-- Provide the basic links for the model. -->
 
-- **Repository:** [More Information Needed]
-- **Paper [optional]:** [More Information Needed]
-- **Demo [optional]:** [More Information Needed]
+- **Repository:** 
+- **Paper [optional]:** https://qwen.ai/research
+- **Demo [optional]:** https://huggingface.co/Qwen/Qwen3.5-0.8B
 
 ## Uses
 

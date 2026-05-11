@@ -26,7 +26,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 uvicorn app.app:app --reload
 streamlit run app/ui.py
-'''
+```
 
 ## Goal
 The goal of this project is to explore how small language models can be fine-tuned to perform mathematical reasoning using explicit thinking-style responses.

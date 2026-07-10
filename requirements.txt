@@ -4,9 +4,12 @@ torchvision
 torchaudio
 streamlit
 fastapi
+uvicorn[standard]
+python-multipart
 pydantic
 peft
 numpy
-peft
 bitsandbytes
 datasets
+evaluate
+requests

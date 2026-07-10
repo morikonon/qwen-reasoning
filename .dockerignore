@@ -1,7 +1,8 @@
-venv
-weights
+venv/
+.git/
 __pycache__/
 *.pyc
+notebooks/
 data/raw/
 data/preprocessed/
 checkpoint/
